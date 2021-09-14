@@ -9,4 +9,4 @@ Given a sequence of characters from this data ("Alas! What dost tho"), train a m
 
 ## How to run it
 the starting point for the model is the next_char variable, a string constant. Set this as follows:
-```next_char = tf.constant(['Your text here'])
+```next_char = tf.constant(['Your text here'])```
