@@ -1,4 +1,4 @@
-# Shakespearean-text-generator
+# Random Shakespearean text generator
 This repository contains a python script that trains a RNN (Recurrent Neural Network) using text from Shakespeare's work and uses the model to predict a sequence of characters when provided with a sequence of characters.
 
 ## How this works
