@@ -23,6 +23,6 @@ very fined, rather, that I have tush'd your eyes
 With distemper'd weakness laughter:
 Will thither by goddess Clearing, hath been there
 now that thou wear'sty! stand up, starve,
-To tell the sumples of the king.**  
+To tell the sumples of the king.  
 
 The response varies each time the script is run.
