@@ -10,10 +10,9 @@ Given a sequence of characters from this data ("Alas! What dost tho"), train a m
 ## How to run it
 the starting point for the model is the next_char variable, a string constant. Set this as follows:  
 ```next_char = tf.constant(['Your text here'])```  
-For example, providing this text *Alas!* gave a result like this:  
-*hat dost thou, pretty, rather
+For example, providing this text **Alas!** gave a result like this:  
+**hat dost thou, pretty, rather
 To touch this speech with you and yours becomes.
-
 KING EDWARD IV:
 Hold, very well, good morrow; Catesby, for myself; but tell these arm
 We all rest friends o' the comfort of thy sirs,
@@ -24,6 +23,6 @@ very fined, rather, that I have tush'd your eyes
 With distemper'd weakness laughter:
 Will thither by goddess Clearing, hath been there
 now that thou wear'sty! stand up, starve,
-To tell the sumples of the king.*  
+To tell the sumples of the king.**  
 
 The response varies each time the script is run.
