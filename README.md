@@ -11,7 +11,7 @@ Given a sequence of characters from this data ("Alas! What dost tho"), train a m
 the starting point for the model is the next_char variable, a string constant. Set this as follows:  
 ```next_char = tf.constant(['Your text here'])```  
 For example, providing this text **Alas!** gave a result like this:  
-**hat dost thou, pretty, rather
+> hat dost thou, pretty, rather
 To touch this speech with you and yours becomes.
 KING EDWARD IV:
 Hold, very well, good morrow; Catesby, for myself; but tell these arm
